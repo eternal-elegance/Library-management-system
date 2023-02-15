@@ -1,0 +1,5 @@
+Babel==2.11.0
+pytz==2022.7.1
+screeninfo==0.8.1
+tk==0.1.0
+tkcalendar==1.6.1
